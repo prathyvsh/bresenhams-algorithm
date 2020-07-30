@@ -39,3 +39,15 @@ http://ijece.iaescore.com/index.php/IJECE/article/view/12548
 
 ** Line Drawing, Leap Years, and Euclid
 http://cs.tau.ac.il/~nachum/calendar-book/papers/bresenham.pdf
+
+** Zero-error 1 second Timer
+https://www.romanblack.com/one_sec.htm
+
+** Optimized version of the algorithm
+http://www.phatcode.net/res/224/files/html/ch36/36-01.html
+
+** Fast Lines: A Span by Span Method
+http://www.ai.univ-paris8.fr/~boyer/Articles/1999_cgf.pdf
+
+** Faster than Bresenham’s Algorithm?
+https://hbfs.wordpress.com/2009/07/28/faster-than-bresenhams-algorithm/
