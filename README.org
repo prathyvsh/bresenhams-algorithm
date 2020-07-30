@@ -1,0 +1,41 @@
+* Bresenham’s Algorithm
+
+** [[https://web.archive.org/web/20080528040104/http://www.research.ibm.com/journal/sj/041/ibmsjIVRIC.pdf][Original Paper]]
+
+** The Beauty of Bresenham’s Algorithm
+http://members.chello.at/~easyfilter/bresenham.html
+
+** Fast line algorithm
+https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8349/83490L/Fast-line-drawing-algorithm-by-circular-subtraction-based-on-Bresenham/10.1117/12.920389.short
+
+** Murphy’s Modification
+http://homepages.enterprise.net/murphy/thickline/
+
+** Fast Bresenham’s Algorithm for Drawing Circles
+https://web.engr.oregonstate.edu/~sllu/bcircle.pdf
+
+** Deriving Bresenham’s Algorithm
+https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.29.9921&rep=rep1&type=pdf
+
+** Speeding up Bresenham’s Algorithm
+https://ieeexplore.ieee.org/document/103388
+
+** Hidden Line Solution
+https://link.springer.com/chapter/10.1007/978-3-642-84574-1_24
+
+** [[https://pdfs.semanticscholar.org/e81c/bf4c8014adc7d8bbb2841357d229a2ea35a5.pdf][Flash visualization]]
+
+** Run Based Multiline point drawing
+https://smartech.gatech.edu/bitstream/handle/1853/3632/93-22.pdf
+
+** An efficient anti-aliasing technique
+https://dl.acm.org/doi/10.1145/122718.122734
+
+** An integer one pass algorithm for voxel traversal
+https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2004.00750.x
+
+** Hardware/software co-design for a parallel three-dimensional bresenham’s algorithm
+http://ijece.iaescore.com/index.php/IJECE/article/view/12548
+
+** Line Drawing, Leap Years, and Euclid
+http://cs.tau.ac.il/~nachum/calendar-book/papers/bresenham.pdf
